@@ -1,5 +1,9 @@
 # Hello-rails-back-end
 
+## Description
+
+#### Back end application with rails to generate random greetings in an API ENPOINT, then it's render on the front-end react project [Link to FrontEnd](https://github.com/ramiaquista/hello-react-front-end)
+
 ## Built With
 
 - Git - Github - GitFlow
@@ -12,8 +16,8 @@
 
 ## Getting Started
 
-- To get a local copy of the repository please run the following commands on your terminal: `git clone https://github.com/ramiaquista/hello-rails-react`
-- Go to the cloned directory with `cd budget-app`
+- To get a local copy of the repository please run the following commands on your terminal: `git clone https://github.com/ramiaquista/hello-rails-back-end`
+- Go to the cloned directory with `cd hello-rails-back-end`
 - Run `bundle install` to install the necessary packages
 - Install the `postgresql` database and all necessary dependencies (if you are on Ubuntu just run `sudo apt install postgresql postgresql-contrib`)
 - Run `rails db:create` to create the database locally or if already have one with the same name run `rails db:reset` instead
